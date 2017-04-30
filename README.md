@@ -1,2 +1,0 @@
-# nazwa
-nazwa
